@@ -1,4 +1,4 @@
-# Neoadjuvant Chemotherapy Simulation for Breast Cancer MRI via Diffusion Model****
+# Neoadjuvant Chemotherapy Simulation for Breast Cancer MRI via Diffusion Model
 
 
 
@@ -10,4 +10,5 @@ The model architecture is illustrated below:
 
 
 
-Code will be updated soon..!
+Code will be updated.
+

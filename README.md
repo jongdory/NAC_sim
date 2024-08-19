@@ -4,9 +4,7 @@
 
 ## Overview
 
-This repository contains the code for Neoadjuvant Chemotherapy Simulation for Breast Cancer MRI via Diffusion Model.
-
-The model architecture is illustrated below: 
+This repository contains the code for Neoadjuvant Chemotherapy Simulation for Breast Cancer MRI via Diffusion Model. The model architecture is illustrated below: 
 
 ![fig2](./asset/fig2.png)
 
